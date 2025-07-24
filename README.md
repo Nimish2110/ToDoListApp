@@ -17,11 +17,15 @@ A simple and elegant Android app built using Java and Room Database to help user
 
 ## 📸 Screenshots
 
-<img width="278" height="521" alt="Screenshot 2025-07-24 112044" src="https://github.com/user-attachments/assets/8857b4e6-0370-4eda-80c2-3df081199c37" />
-<img width="364" height="767" alt="Screenshot 2025-07-24 112104" src="https://github.com/user-attachments/assets/5de4d5e5-e415-4954-b5a5-b68b5c6ad8ec" />
-<img width="355" height="763" alt="Screenshot 2025-07-24 112122" src="https://github.com/user-attachments/assets/42c1b291-7c95-4bd2-98ac-dcec03edb760" />
-<img width="358" height="769" alt="Screenshot 2025-07-24 112145" src="https://github.com/user-attachments/assets/0cb6d4b2-16b0-4160-b21c-69a34023abcf" />
-<img width="362" height="769" alt="Screenshot 2025-07-24 112542" src="https://github.com/user-attachments/assets/395f59e1-d765-49a9-8deb-8635a1093432" />
+
+<img width="368" height="805" alt="Screenshot 2025-07-24 114114" src="https://github.com/user-attachments/assets/d63236d3-b15f-4c28-adfe-efe6810817b0" />
+
+<img width="371" height="798" alt="Screenshot 2025-07-24 114149" src="https://github.com/user-attachments/assets/5cdd0133-7e64-4412-b752-e6f14836b7cd" />
+
+<img width="374" height="803" alt="Screenshot 2025-07-24 114206" src="https://github.com/user-attachments/assets/d4619789-af29-4a10-8528-3d8dd573e330" />
+
+<img width="375" height="809" alt="Screenshot 2025-07-24 114230" src="https://github.com/user-attachments/assets/e1e9d830-656c-48f2-83e9-211ec4be6198" />
+
 
 ---
 
