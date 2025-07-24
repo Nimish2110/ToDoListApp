@@ -1,0 +1,40 @@
+<resources>
+    <!-- App Identity -->
+    <string name="app_name">ToDoList App</string>
+    <string name="app_title">Tobol.ist App</string>
+
+    <!-- Task Management -->
+    <string name="task_hint">Enter a new task</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="swipe_delete_hint">Swipe to delete</string>
+    <string name="set_due_date">Set due date</string>
+
+    <!-- Notifications -->
+    <string name="task_deleted">Task deleted</string>
+    <string name="task_removed">Task removed</string>
+    <string name="empty_task_warning">Task cannot be empty</string>
+    <string name="task_clicked">Clicked: %s</string>
+
+    <!-- Editing -->
+    <string name="edit_task_desc">Edit Task</string>
+    <string name="edit_task_dialog_title">Edit Task</string>
+    <string name="save_changes">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="edit_task">Edit task</string>
+    <string name="priority_low_desc">Low priority indicator</string>
+    <string name="priority_medium_desc">Medium priority indicator</string>
+    <string name="priority_high_desc">High priority indicator</string>
+
+    <string name="priority_indicator">Priority indicator</string>
+    <string name="priority_icon_tint">#FF0000</string>
+
+    <string name="priority_none">None</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+
+    <string name="task_added_success">Task added</string>
+    <string name="date_format">MMM dd, yyyy</string>
+    <string name="undo">Undo</string>
+</resources>

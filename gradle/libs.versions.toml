@@ -1,0 +1,20 @@
+[versions]
+agp = "8.2.2"  # Android Gradle Plugin
+googleMaterial = "1.12.0"
+kotlin = "1.9.22"
+room = "2.7.2"
+corektx = "1.16.0"
+appcompat = "1.7.1"
+
+[libraries]
+androidx-core = { group = "androidx.core", name = "core-ktx", version.ref = "corektx" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+androidx-room-runtime = { group = "androidx.room", name = "room-runtime", version.ref = "room" }
+androidx-room-ktx = { group = "androidx.room", name = "room-ktx", version.ref = "room" }
+com-google-android-material-material = { module = "com.google.android.material:material", version.ref = "googleMaterial" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+android = { id = "com.android.application", version.ref = "agp" }
+kotlin = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version = "2.2.0-1.0.0" }
